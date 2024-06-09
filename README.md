@@ -27,9 +27,7 @@ Este é um aplicativo bancário simples implementado em Python. Ele permite que 
 
 Certifique-se de ter Python instalado em seu sistema. Em seguida, execute o arquivo semcred.py usando o Python:
 
-```bash
-python semcred.py
-Como Usar
+## Como Usar
 Ao iniciar o programa, será exibido um menu com as opções disponíveis.
 Escolha a opção desejada digitando o número correspondente e pressionando Enter.
 Siga as instruções na tela para realizar a operação desejada.
