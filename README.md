@@ -6,10 +6,8 @@ A  idéia foi fazer um aplicativo de um banco um pouco diferente, onde a comunic
 Ele permite que os usuários realizem operações bancárias básicas, como depósitos, saques, exibição de extrato, criação de novos usuários e contas, e listagem de contas existentes.
 
 
-Claro! Abaixo está o conteúdo de um possível arquivo README.md para esse código:
-
 markdown
-Copiar código
+
 # SEMCRED - Aplicativo Bancário Simples
 
 Este é um aplicativo bancário simples implementado em Python. Ele permite que os usuários realizem operações bancárias básicas, como depósitos, saques, exibição de extrato, criação de novos usuários e contas, e listagem de contas existentes.
